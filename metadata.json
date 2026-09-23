@@ -1,0 +1,6 @@
+{
+  "name": "ShikshaBatch - Study Batch & Chapter Resource Portal",
+  "description": "Create study batches, organize chapter folders, and manage video lectures and PDF notes with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
